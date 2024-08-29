@@ -41,6 +41,14 @@ body {
   color: var(--clr-light);
 }
 
+.light-mode {
+  --clr-light: #131319;
+  --clr-dark: #f1f5f9;
+  --clr-slate400: #1e293b;
+  --clr-slate600: #1e293b;
+  --clr-slate800: #1e293b;
+}
+
 img,
 canvas,
 picture,
